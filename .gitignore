@@ -1,0 +1,11 @@
+*__pycache__/
+.vscode
+build/
+dist/
+venv/
+.VSCodeCounter
+build/
+bin/
+dist/
+dt_dist.zip
+data/
